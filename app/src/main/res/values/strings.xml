@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github Developers</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Andela Project</string>
+    <string name="slide_1_desc"></string>
+
+    <string name="slide_2_title">Java Developers</string>
+    <string name="slide_2_desc">This app lists Java developers in Lagos</string>
+
+    <string name="slide_3_title">Profile Page</string>
+    <string name="slide_3_desc">Creates a Profile Page for each Developer</string>
+
+    <string name="send_to">Complete Action Using</string>
+</resources>

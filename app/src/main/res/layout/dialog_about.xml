@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:scaleType="center"
+        android:background="@color/colorAccent"
+        android:text="Andela Project"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This App lists all Java Devopers in Lagos"
+        android:layout_gravity="center"
+        android:textColor="#111"
+        android:layout_marginBottom="24dp"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed by OKON EMMANUEL"
+        android:layout_gravity="center"
+        android:textSize="16sp"
+        android:textColor="#111"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+2348107770124"
+        android:textStyle="italic"
+        android:layout_gravity="center"
+        android:textColor="#111"
+        android:layout_marginBottom="52dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\u00a9 Copyright 2017"
+        android:layout_gravity="center"
+        android:textColor="#111"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>
